@@ -1,12 +1,20 @@
-# React + Vite
+Furniture Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introduction
 
-Currently, two official plugins are available:
+This project is a web-based furniture design application developed for the Human-Computer Interaction (HCI) module. It aims to assist furniture store designers in creating customized room layouts based on individual customer needs.
+The core problem addressed by this application is helping customers visualize how furniture will look in their own homes before making a purchase. By offering interactive tools and realistic rendering, the platform bridges the gap between imagination and decision-making.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Requirements
+- Node.js (v16 or higher recommended)
 
-## Expanding the ESLint configuration
+How to Run
+- run "npm install"
+- run "npm run dev"
+- ctrl + click the given link
+- Register new Account
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Credits
+- Free 3D models by www.sketchfab.com
+
+
